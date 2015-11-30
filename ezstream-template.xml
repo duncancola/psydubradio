@@ -6,15 +6,15 @@
 
   <format>MP3</format> 
 
-  <filename>/Users/duncangrant/code/radio/stream/playlist.txt</filename> 
+  <filename>playlist.txt</filename> 
 
   <stream_once>1</stream_once> 
 
   <shuffle>1</shuffle>
 
-  <svrinfoname>Dalai Dunc's PsyDub Radio</svrinfoname> 
+  <svrinfoname>Psy Dub Radio</svrinfoname> 
 
-  <svrinfourl>http://duncangrant.co.uk/</svrinfourl> 
+  <svrinfourl>URL</svrinfourl> 
 
   <svrinfogenre>Psy Dub</svrinfogenre> 
 
