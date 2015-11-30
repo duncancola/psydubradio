@@ -1,0 +1,33 @@
+<ezstream>
+
+  <url>http://localhost:8000/source</url>
+
+  <sourcepassword>hackme</sourcepassword> 
+
+  <format>MP3</format> 
+
+  <filename>/Users/duncangrant/code/radio/stream/playlist.txt</filename> 
+
+  <stream_once>1</stream_once> 
+
+  <shuffle>1</shuffle>
+
+  <svrinfoname>Dalai Dunc's PsyDub Radio</svrinfoname> 
+
+  <svrinfourl>http://duncangrant.co.uk/</svrinfourl> 
+
+  <svrinfogenre>Psy Dub</svrinfogenre> 
+
+  <svrinfodescription>Psy Dub Radio</svrinfodescription> 
+
+  <svrinfobitrate>128</svrinfobitrate> 
+
+  <svrinfochannels>2</svrinfochannels> 
+
+  <svrinfosamplerate>44100</svrinfosamplerate> 
+
+  <!-- No advertising on a public YP directory --> 
+
+  <svrinfopublic>0</svrinfopublic> 
+
+</ezstream>
